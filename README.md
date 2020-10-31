@@ -66,7 +66,7 @@ Information on configuring and using tools such as Xdebug, LiveReload, MFTF, and
 
 To completely destroy the local environment we just created, run `warden env down -v` to tear down the project’s Docker containers, volumes, and (where applicable) cleanup the Mutagan sync session.
 
-### Admin Password
+### Admin Password and Info
 ```
 Created Magento administrator user named localadmin
 
